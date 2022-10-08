@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chijioke. Welcome to my profile!
-- 👀 I’m interested in contributing to innovative and impactful projects so please, don't hesitate to reach out if you have one for me😉
+- 👀 I’m interested in contributing to innovative and impactful projects so please, don't hesitate to reach out if you have one for me
 - 🌱 I’m currently learning React.js
 - 📫 Feel free to contact me via my LinkedIn https://www.linkedin.com/in/chijioke-ibekwe/
 
