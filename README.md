@@ -1,6 +1,6 @@
 - 👋 Hi there. Welcome to my profile!
 - 👨‍💻 I’m Chijioke, a software engineer from Nigeria.
-- ❤️ I have a passion for bringing innovative and impactful product ideas to life. So please, kindly reach out if you have one that matches my skill set.
+- ❤️ I have a passion for building innovative and impactful products. So please, kindly reach out if you have one that matches my skill set.
 - 📫 Feel free to contact me via my LinkedIn - https://www.linkedin.com/in/chijioke-ibekwe/
 
 #### My current stack consists of:
