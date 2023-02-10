@@ -12,7 +12,7 @@
 - 📫 You can contact me via my email - ibekwe.chijioke18@gmail.com
 ---
 
-#### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: My current stack consists of :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express-icon" width="50" height="50"><img
