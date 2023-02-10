@@ -8,7 +8,7 @@
 </h1>
 
 - 👨‍💻 I’m Chijioke, a software engineer from Nigeria.
-- ❤️ I have a passion for designing and building innovative products. If you have one that matches my skill set, feel free to reach out 😊.
+- ❤️ I have a passion for designing and building innovative products. If you have one that matches my skill set, feel free to reach out.
 - 📫 You can contact me via my email - ibekwe.chijioke18@gmail.com
 ---
 
@@ -23,7 +23,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/
 
 ---
 
-#### My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chijioke-ibekwe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
