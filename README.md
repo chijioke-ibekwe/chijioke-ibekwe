@@ -8,7 +8,7 @@
 </h1>
 
 - 👨‍💻 My name is Chijioke. I'm a software engineer from Nigeria.
-- ❤️ I have a passion for designing and building innovative products. If you have one that matches my skill set, feel free to reach out.
+- ❤️ I have a passion for designing and building innovative products. So please, feel free to reach out if you have one that matches my skill set.
 - 📫 You can contact me via my email - ibekwe.chijioke18@gmail.com
 ---
 
