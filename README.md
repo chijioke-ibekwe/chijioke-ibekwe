@@ -2,25 +2,27 @@
   <img src="https://komarev.com/ghpvc/?username=chijioke-ibekwe&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hi there
+  Hello Stanger
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  . Welcome to my profile!
+  . Welcome to my profile! 
 </h1>
 
-- 👨‍💻 My name is Chijioke. I'm a software engineer from Nigeria.
-- ❤️ I have a passion for designing and building innovative products. So please, feel free to reach out if you have one that matches my skill set.
+- 👨‍💻 My name is Chijioke. I'm a software engineer from Nigeria. 
+- ❤️ I have a passion for creating software solutions that solve real problems for people. I'm also very keen on contributing to the open-source software community.
+- 😀 Outside of software, I'm a huge sports fan and the biggest Arsenal Football Club fan you'll ever meet
 - 📫 You can contact me via my email - ibekwe.chijioke18@gmail.com
----
+---https://github.com/chijioke-ibekwe/chijioke-ibekwe/actions
 
 #### :hammer_and_wrench: My current stack consists of :
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy-icon" width="50" height="50"><img
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-icon" width="50" height="50"><img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php-icon" width="50" height="50"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel-icon" width="50" height="50"><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs-icon" width="50" height="50"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php-icon" width="50" height="50"><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel-icon" width="50" height="50"><img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis-icon" width="50" height="50">   <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="rabbitmq-icon" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg" alt="tomcat-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap-icon" width="50" height="50">
 
 ---
