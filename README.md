@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=chijioke-ibekwe&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hello Stranger!
+  Hello Stranger
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   . Welcome to my profile! 
 </h1>
