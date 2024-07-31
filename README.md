@@ -11,7 +11,6 @@
 - ❤️ I have a passion for creating software solutions that solve real problems for people. I'm also very keen on contributing to the open-source software community.
 - 😀 Outside of software, I'm a huge sports fan and the biggest Arsenal Football Club fan you'll ever meet
 - 📫 You can contact me via my email - ibekwe.chijioke18@gmail.com
----https://github.com/chijioke-ibekwe/chijioke-ibekwe/actions
 
 #### :hammer_and_wrench: My current stack consists of :
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java-icon" width="50" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring-icon" width="50" height="50"><img 
