@@ -1,4 +1,4 @@
-Hey 👋. I'm Chijioke, a Senior Software Engineer based in Lagos, Nigeria.
+Hey 👋. I'm **Chijioke**, a Senior Software Engineer based in Lagos, Nigeria.
 
 Currently building payment infrastructure and core-banking systems that move money for millions of people. Outside of 
 that, I love to probe into the engineering behind systems. I'm also a big fan of open-source technologies and try to 
